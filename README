@@ -1,0 +1,10 @@
+  projeto floricultura virtual
+
+#descrição : se trata de um sistema web com vendas 
+de flores contando com catalogos que especifica e mostra
+as flores que detem esse estabelicimento, contando com direcionamento 
+para as redes sociais e descrições para o cliente conhecer mais um pouco 
+sobre as plantas que é vendidas.
+
+#configuração: laravel 5.3,html5,css3,php 7 o sistema operacional
+usado sera ubuntu 18.04 linux com o editor vscode. 
